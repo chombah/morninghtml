@@ -1,0 +1,16 @@
+#fruits{
+    border: 5px solid orangered;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    background: #153d3d;
+    color: white;
+}
+#cars{
+border: 5px solid maroon;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    background: grey;
+    color: firebrick;
+}
